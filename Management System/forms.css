@@ -1,0 +1,26 @@
+@import url("../Dashboard/style.min.css");
+
+.container{
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+.left-container, .right-container{
+  padding: 20px;
+  border-style: double;
+}
+
+.left-container{
+    width: 30%;
+    height: 400px;
+    float: left;
+}
+
+.right-container{
+    width: 60%;
+    height: 400px;
+    margin-left: 35%;
+}
+.title{
+  display: inline-flex;
+}
