@@ -4,3 +4,5 @@ function getInputValue(){
   console.log(company);
   console.log(ship_address);
 }
+
+export {company, ship_address};
