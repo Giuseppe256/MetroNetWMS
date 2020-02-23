@@ -21,6 +21,7 @@
     height: 400px;
     margin-left: 35%;
 }
-.title{
-  display: inline-flex;
+.title span{
+    font-family: cursive;
+    font-size: 30px;
 }
